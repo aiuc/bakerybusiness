@@ -1,9 +1,9 @@
-# bakerybusiness
+# Bakery Business 2021 [fr]
 ## Schéma UML des classes (vision fournisseur)
 ![image](https://user-images.githubusercontent.com/117222949/199342879-fcb000cc-44de-485b-8c72-6ef457b276e7.png)
 
 
-## Présentation brève du projet 
+## Présentation rapide du projet 
 On considère une unique Boulangerie dont le stock est prédéfini. En saisissant les divers
 paramètres (coût moyen d’un pain, nombre de consommateurs moyen par jour, …) et en écrivant
 dans un fichier texte les transactions effectuées, le but est de déterminer si la boulangerie est
