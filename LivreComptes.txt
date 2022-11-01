@@ -1,0 +1,619 @@
+=== SIMULATION NO 1 ===
+
+1	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+2	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Viennoiserie : Feuilletee, Cravate au chocolat, Prix : 2.3; Viennoiserie : Feuilletee, Cravate au chocolat, Prix : 2.3; Viennoiserie : Feuilletee, Cravate au chocolat, Prix : 2.3; Viennoiserie : Feuilletee, Cravate au chocolat, Prix : 2.3; Viennoiserie : Feuilletee, Cravate au chocolat, Prix : 2.3; Viennoiserie : Feuilletee, Cravate au chocolat, Prix : 2.3; Viennoiserie : Feuilletee, Cravate au chocolat, Prix : 2.3]	18.40 euros
+
+3	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Viennoiserie : Feuilletee, Cravate au chocolat, Prix : 2.3; Viennoiserie : Feuilletee, Cravate au chocolat, Prix : 2.3; Viennoiserie : Feuilletee, Cravate au chocolat, Prix : 2.3; Gateau : Frangipane, Galette des rois, Prix : 25.0; Viennoiserie : Feuilletee, Cravate au chocolat, Prix : 2.3; Viennoiserie : Feuilletee, Cravate au chocolat, Prix : 2.3]	39.95 euros
+
+4	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+5	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	7.32 euros
+
+6	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Gateau : Frangipane, Galette des rois, Prix : 25.0; Viennoiserie : Feuilletee, Cravate au chocolat, Prix : 2.3]	30.75 euros
+
+7	[Pain : Traditionnelle, Baguette, Prix : 1.15; Viennoiserie : Feuilletee, Cravate au chocolat, Prix : 2.3; Viennoiserie : Feuilletee, Cravate au chocolat, Prix : 2.3; Viennoiserie : Feuilletee, Cravate au chocolat, Prix : 2.3; Viennoiserie : Feuilletee, Cravate au chocolat, Prix : 2.3]	10.35 euros
+
+8	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+9	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+10	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	12.20 euros
+
+11	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+12	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	2.30 euros
+
+13	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+14	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+15	[Pain : Traditionnelle, Baguette, Prix : 1.15; Gateau : Frangipane, Galette des rois, Prix : 25.0; Viennoiserie : Feuilletee, Cravate au chocolat, Prix : 2.3; Viennoiserie : Feuilletee, Cravate au chocolat, Prix : 2.3]	30.75 euros
+
+16	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+17	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+18	[Pain : Traditionnelle, Baguette, Prix : 1.15; Viennoiserie : Feuilletee, Cravate au chocolat, Prix : 2.3]	3.45 euros
+
+19	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+20	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+21	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	4.88 euros
+
+22	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+23	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+24	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+25	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Gateau : Frangipane, Galette des rois, Prix : 25.0]	28.45 euros
+
+26	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+27	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+28	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Gateau : Frangipane, Galette des rois, Prix : 25.0]	27.30 euros
+
+29	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	3.45 euros
+
+30	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+31	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+32	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Gateau : Frangipane, Galette des rois, Prix : 25.0]	28.45 euros
+
+33	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	2.30 euros
+
+34	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	3.45 euros
+
+35	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	8.05 euros
+
+36	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Gateau : Frangipane, Galette des rois, Prix : 25.0]	27.30 euros
+
+37	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+38	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+39	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+40	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+41	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+42	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Gateau : Frangipane, Galette des rois, Prix : 25.0; Gateau : Frangipane, Galette des rois, Prix : 25.0; Gateau : Frangipane, Galette des rois, Prix : 25.0]	78.45 euros
+
+43	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	3.45 euros
+
+44	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+45	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Gateau : Frangipane, Galette des rois, Prix : 25.0; Gateau : Frangipane, Galette des rois, Prix : 25.0]	52.30 euros
+
+46	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	4.88 euros
+
+47	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+48	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+49	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+50	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	2.30 euros
+
+51	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+52	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	8.05 euros
+
+53	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+54	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	19.52 euros
+
+55	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+56	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	3.45 euros
+
+57	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+58	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	2.30 euros
+
+59	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	13.80 euros
+
+60	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+61	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	29.28 euros
+
+62	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+63	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	4.60 euros
+
+64	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	2.30 euros
+
+65	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+66	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+67	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+68	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+69	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	12.20 euros
+
+70	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+71	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+72	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+73	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	12.20 euros
+
+74	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	7.32 euros
+
+75	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	7.32 euros
+
+76	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+77	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+78	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	3.45 euros
+
+79	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	4.88 euros
+
+80	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+81	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+82	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+83	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+84	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+85	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	7.32 euros
+
+86	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	2.30 euros
+
+87	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+88	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	4.88 euros
+
+89	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	4.60 euros
+
+90	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	5.75 euros
+
+91	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	5.75 euros
+
+92	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+93	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	4.60 euros
+
+94	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	17.08 euros
+
+95	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+96	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	12.20 euros
+
+97	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	5.75 euros
+
+98	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	7.32 euros
+
+99	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	3.45 euros
+
+100	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+101	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	4.88 euros
+
+102	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+103	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+104	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	2.30 euros
+
+105	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+106	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	2.30 euros
+
+107	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+108	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+109	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+110	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	24.40 euros
+
+111	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	3.45 euros
+
+112	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	17.08 euros
+
+113	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+114	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+115	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	4.88 euros
+
+116	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+117	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	3.45 euros
+
+118	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	3.45 euros
+
+119	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+120	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	12.20 euros
+
+121	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	14.64 euros
+
+122	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+123	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	3.45 euros
+
+124	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	12.20 euros
+
+125	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+126	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	4.60 euros
+
+127	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+128	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	4.60 euros
+
+129	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	4.88 euros
+
+130	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+131	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	5.75 euros
+
+132	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+133	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+134	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	7.32 euros
+
+135	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	7.32 euros
+
+136	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	3.45 euros
+
+137	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	2.30 euros
+
+138	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	8.05 euros
+
+139	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	3.45 euros
+
+140	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	26.84 euros
+
+141	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	2.30 euros
+
+142	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+143	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+144	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+145	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+146	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	14.64 euros
+
+147	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	3.45 euros
+
+148	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+149	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	7.32 euros
+
+150	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+151	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	3.45 euros
+
+152	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	12.20 euros
+
+153	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+154	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+155	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+156	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+157	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+158	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	4.88 euros
+
+159	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	3.45 euros
+
+160	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+161	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+162	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+163	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	31.72 euros
+
+164	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+165	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+166	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+167	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+168	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	2.30 euros
+
+169	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	7.32 euros
+
+170	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	17.08 euros
+
+171	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	2.30 euros
+
+172	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	2.30 euros
+
+173	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+174	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	12.20 euros
+
+175	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+176	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	2.30 euros
+
+177	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	24.40 euros
+
+178	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+179	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+180	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	48.80 euros
+
+181	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+182	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	2.30 euros
+
+183	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	2.30 euros
+
+184	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	36.60 euros
+
+185	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	4.60 euros
+
+186	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	4.88 euros
+
+187	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	9.76 euros
+
+188	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	5.75 euros
+
+189	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+190	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	19.52 euros
+
+191	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	2.30 euros
+
+192	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+193	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	24.40 euros
+
+194	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	3.45 euros
+
+195	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	9.76 euros
+
+196	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	6.90 euros
+
+197	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+198	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+199	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+200	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+201	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	4.88 euros
+
+202	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+203	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+204	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	21.96 euros
+
+205	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	12.20 euros
+
+206	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+207	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+208	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+209	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	26.84 euros
+
+210	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+211	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+212	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+213	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+214	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	2.30 euros
+
+215	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	39.04 euros
+
+216	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	5.75 euros
+
+217	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	3.45 euros
+
+218	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+219	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	4.60 euros
+
+220	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	46.36 euros
+
+221	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+222	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	3.45 euros
+
+223	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+224	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+225	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+226	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	2.30 euros
+
+227	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+228	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+229	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+230	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+231	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+232	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+233	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	2.30 euros
+
+234	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+235	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+236	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	9.76 euros
+
+237	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	9.76 euros
+
+238	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	17.08 euros
+
+239	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+240	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	5.75 euros
+
+241	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	3.45 euros
+
+242	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	2.30 euros
+
+243	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+244	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+245	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+246	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	12.20 euros
+
+247	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	6.90 euros
+
+248	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	2.30 euros
+
+249	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	2.30 euros
+
+250	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+251	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+252	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+253	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	5.75 euros
+
+254	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+255	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+256	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	4.60 euros
+
+257	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+258	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+259	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+260	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	3.45 euros
+
+261	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+262	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+263	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	13.80 euros
+
+264	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	31.72 euros
+
+265	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+266	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+267	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	4.88 euros
+
+268	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	10.35 euros
+
+269	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	12.20 euros
+
+270	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+271	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+272	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	12.20 euros
+
+273	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	3.45 euros
+
+274	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	5.75 euros
+
+275	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	14.64 euros
+
+276	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	5.75 euros
+
+277	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	6.90 euros
+
+278	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+279	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+280	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+281	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+282	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	5.75 euros
+
+283	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	4.60 euros
+
+284	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	4.88 euros
+
+285	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	3.45 euros
+
+286	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+287	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	26.84 euros
+
+288	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	4.60 euros
+
+289	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+290	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	6.90 euros
+
+291	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+292	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	9.20 euros
+
+293	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	4.88 euros
+
+294	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	6.90 euros
+
+295	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	3.45 euros
+
+296	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+297	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+298	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	2.30 euros
+
+299	[Pain : Traditionnelle, Baguette, Prix : 1.15; Pain : Traditionnelle, Baguette, Prix : 1.15]	2.30 euros
+
+300	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+301	[Pain : Traditionnelle, Baguette, Prix : 1.15]	1.15 euros
+
+302	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	9.76 euros
+
+303	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44; Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	24.40 euros
+
+304	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+305	[Sucrerie : Citron, Paquet de carambars, Prix : 2.44]	2.44 euros
+
+
+---
+CA (continu) : 972.10 euros
+
+
+
+
